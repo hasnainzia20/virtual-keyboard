@@ -74,7 +74,10 @@
 }
 .keyboard-wrapper .keyBtn .uCase {
     text-transform: uppercase;
-    
+}
+
+#main .keyboard-wrapper #btn-43  {
+    padding: 18px 100px;
 }
 
 @media only screen and (max-width:768px)  {
@@ -113,8 +116,8 @@
         color: #fff;
         font-size: 12px;
     }
-    #main .keyboard-wrapper #btn-44  {
-        padding: 6px 10px;
+    #main .keyboard-wrapper #btn-43  {
+        padding: 16px 30px;
     }
 }
 @media only screen and (max-width: 420px) {
