@@ -77,7 +77,7 @@
     
 }
 
-@media  (max-width:768px) and   (min-width: 481px) {
+@media only screen and (max-width:768px)  {
     #main .keyboard-wrapper #keyboard {
         max-width: 100%;}
 
@@ -91,7 +91,7 @@
         font-size: 15px;
     }
 }
-@media  (max-width:480px) {
+@media only screen and (max-width: 600px) {
 
     #main .view-header h1 {
         font-size: 35px;
@@ -117,7 +117,7 @@
         padding: 6px 10px;
     }
 }
-@media  (min-width:320px) {
+@media only screen and (max-width: 420px) {
 
     #main .view-header h1 {
         font-size: 35px;
